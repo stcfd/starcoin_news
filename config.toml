@@ -1,0 +1,17 @@
+baseURL = "http://news.starcoin.org/"
+languageCode = "en"
+title = "Starcoin News"
+DefaultContentLanguage = "en"
+defaultContentLanguageInSubdir = true
+theme = "book"
+enableGitInfo = false
+
+[languages]
+  [languages.en]
+    languageName = "English"
+    title = "Starcoin News"
+    weight = 10
+  [languages.zh]
+    languageName = "Chinese"
+    title = "Starcoin 新闻"
+    weight = 20

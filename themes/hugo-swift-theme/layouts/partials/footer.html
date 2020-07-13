@@ -1,0 +1,43 @@
+<!--<footer class = 'footer'>-->
+  <!--<div class = 'footer_inner wrap pale'>-->
+    <!--<p>&copy;&nbsp;<span class = 'year'></span>&nbsp;{{ .Site.Title }}.-->
+    <!--{{ i18n "designed_by" .Site.Data.designer | safeHTML }}</p>-->
+  <!--</div>-->
+<!--</footer>-->
+
+<!--footer start-->
+<div class="clear-both"></div>
+<footer class="am-footer am-footer-default main-footer">
+  <div class="am-footer-miscs ">
+    <p>© 2018-2020 <a href="http://starcoin.org/" target="_blank">Starcoin.org</a> All rights reserved. </p>
+    {{ if .Site.IsMultiLingual }}
+    {{ partial "docs/languages" . }}
+    {{ end }}
+  </div>
+</footer>
+<!--footer end-->
+{{- $mainScriptPath := "js/index.js" }}
+{{- $scripts := resources.Get $mainScriptPath | resources.ExecuteAsTemplate $mainScriptPath . | resources.Minify | resources.Fingerprint "sha512" }}
+<script src = '{{ $scripts.Permalink }}'></script>
+
+<!--[if lt IE 9]>
+<script src="http://libs.baidu.com/jquery/1.11.1/jquery.min.js"></script>
+<script src="http://cdn.staticfile.org/modernizr/2.8.3/modernizr.js"></script>
+<script src="/static/js/amazeui.ie8polyfill.min.js"></script>
+<![endif]-->
+
+<!--[if (gte IE 9)|!(IE)]><!-->
+<script src="/js/jquery.min.js"></script>
+<!--<![endif]-->
+
+<script src="/js/amazeui.js"></script>
+<!--第一版动态效果-->
+<!--<script src="assets/js/nav.js"></script>-->
+<!--取消关闭动态效果-->
+<!--<script src="assets/js/nav-0.js"></script>-->
+
+<!--其它动态效果-->
+<!--<script src="assets/js/nav-1.js"></script>-->
+<script src="/js/nav-2.js"></script>
+
+<!--<script src="assets/js/nav-3.js"></script>-->

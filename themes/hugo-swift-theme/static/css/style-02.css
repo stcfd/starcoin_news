@@ -1,0 +1,394 @@
+
+/*css精简迁移 开始*/
+.am-topbar {
+    position: relative;
+    min-height: 50px;
+    margin-bottom: 1.6rem;
+    background: #f8f8f8;
+    border-width: 0 0 1px;
+    border-style: solid;
+    border-color: #ddd;
+    color: #666
+}
+
+.am-topbar:after, .am-topbar:before {
+    content: " ";
+    display: table
+}
+
+.am-topbar:after {
+    clear: both
+}
+
+.am-topbar a {
+    color: #666
+}
+
+.am-topbar-brand {
+    margin: 0
+}
+
+@media only screen and (min-width: 641px) {
+    .am-topbar-brand {
+        float: left
+    }
+}
+
+.am-topbar-brand a:hover {
+    color: #4d4d4d
+}
+
+.am-topbar-collapse {
+    width: 100%;
+    overflow-x: visible;
+    padding: 10px;
+    clear: both;
+    -webkit-overflow-scrolling: touch
+}
+
+.am-topbar-collapse:after, .am-topbar-collapse:before {
+    content: " ";
+    display: table
+}
+
+.am-topbar-collapse:after {
+    clear: both
+}
+
+.am-topbar-collapse.am-in {
+    overflow-y: auto
+}
+
+@media only screen and (min-width: 641px) {
+    .am-topbar-collapse {
+        margin-top: 0;
+        padding: 0;
+        width: auto;
+        clear: none
+    }
+
+    .am-topbar-collapse.am-collapse {
+        display: block !important;
+        height: auto !important;
+        padding: 0;
+        overflow: visible !important
+    }
+
+    .am-topbar-collapse.am-in {
+        overflow-y: visible
+    }
+}
+
+.am-topbar-brand {
+    padding: 0 10px;
+    float: left;
+    font-size: 1.8rem;
+    height: 50px;
+    line-height: 50px
+}
+
+.am-topbar-toggle {
+    position: relative;
+    float: right;
+    margin-right: 10px
+}
+
+@media only screen and (min-width: 641px) {
+    .am-topbar-toggle {
+        display: none
+    }
+}
+
+@media only screen and (max-width: 640px) {
+    .am-topbar-nav {
+        margin-bottom: 8px
+    }
+
+    .am-topbar-nav > li {
+        float: none
+    }
+}
+
+@media only screen and (max-width: 640px) {
+    .am-topbar-nav > li + li {
+        margin-left: 0;
+        margin-top: 5px
+    }
+}
+
+@media only screen and (min-width: 641px) {
+    .am-topbar-nav {
+        float: left
+    }
+
+    .am-topbar-nav > li > a {
+        position: relative;
+        line-height: 50px;
+        padding: 0 10px
+    }
+
+    .am-topbar-nav > li > a:after {
+        position: absolute;
+        left: 50%;
+        margin-left: -7px;
+        bottom: -1px;
+        content: "";
+        display: inline-block;
+        width: 0;
+        height: 0;
+        vertical-align: middle;
+        border-bottom: 7px solid #f8f8f8;
+        border-right: 7px solid transparent;
+        border-left: 7px solid transparent;
+        border-top: 0 dotted;
+        -webkit-transform: rotate(360deg);
+        -ms-transform: rotate(360deg);
+        transform: rotate(360deg);
+        opacity: 0;
+        -webkit-transition: opacity .1s;
+        transition: opacity .1s
+    }
+
+    .am-topbar-nav > li > a:hover:after {
+        opacity: 1;
+        border-bottom-color: #666
+    }
+
+    .am-topbar-nav > li.am-dropdown > a:after {
+        display: none
+    }
+
+    .am-topbar-nav > li.am-active > a, .am-topbar-nav > li.am-active > a:focus, .am-topbar-nav > li.am-active > a:hover {
+        border-radius: 0;
+        color: #0e90d2;
+        background: 0 0
+    }
+
+    .am-topbar-nav > li.am-active > a:after {
+        opacity: 1;
+        border-bottom-color: #0e90d2
+    }
+}
+
+@media only screen and (max-width: 640px) {
+    .am-topbar-collapse .am-dropdown.am-active .am-dropdown-content {
+        float: none;
+        position: relative;
+        width: 100%
+    }
+}
+
+@media only screen and (min-width: 641px) {
+    .am-topbar-left {
+        float: left
+    }
+
+    .am-topbar-right {
+        float: right;
+        margin-right: 10px
+    }
+}
+
+@media only screen and (max-width: 640px) {
+    .am-topbar-form .am-form-group {
+        margin-bottom: 5px
+    }
+}
+
+@media only screen and (min-width: 641px) {
+    .am-topbar-form {
+        padding: 0 10px;
+        margin-top: 8px
+    }
+
+    .am-topbar-form .am-form-group + .am-btn {
+        margin-left: 5px
+    }
+}
+
+.am-topbar-btn {
+    margin-top: 8px
+}
+
+@media only screen and (max-width: 640px) {
+    .am-topbar-collapse .am-btn, .am-topbar-collapse .am-topbar-btn {
+        display: block;
+        width: 100%
+    }
+}
+
+.am-topbar-inverse {
+    background-color: #0e90d2;
+    border-color: #0b6fa2;
+    color: #eee
+}
+
+.am-topbar-inverse a {
+    color: #eee
+}
+
+.am-topbar-inverse .am-topbar-brand a {
+    color: #fff
+}
+
+.am-topbar-inverse .am-topbar-brand a:focus, .am-topbar-inverse .am-topbar-brand a:hover {
+    color: #fff;
+    background-color: transparent
+}
+
+.am-topbar-inverse .am-topbar-nav > li > a {
+    color: #eee
+}
+
+.am-topbar-inverse .am-topbar-nav > li > a:focus, .am-topbar-inverse .am-topbar-nav > li > a:hover {
+    color: #fff;
+    background-color: rgba(0, 0, 0, .05)
+}
+
+.am-topbar-inverse .am-topbar-nav > li > a:focus:after, .am-topbar-inverse .am-topbar-nav > li > a:hover:after {
+    border-bottom-color: #0b6fa2
+}
+
+.am-topbar-inverse .am-topbar-nav > li > a:after {
+    border-bottom-color: #0e90d2
+}
+
+.am-topbar-inverse .am-topbar-nav > li.am-active > a, .am-topbar-inverse .am-topbar-nav > li.am-active > a:focus, .am-topbar-inverse .am-topbar-nav > li.am-active > a:hover {
+    color: #fff;
+    background-color: rgba(0, 0, 0, .1)
+}
+
+.am-topbar-inverse .am-topbar-nav > li.am-active > a:after, .am-topbar-inverse .am-topbar-nav > li.am-active > a:focus:after, .am-topbar-inverse .am-topbar-nav > li.am-active > a:hover:after {
+    border-bottom-color: #fff
+}
+
+.am-topbar-inverse .am-topbar-nav > li .disabled > a, .am-topbar-inverse .am-topbar-nav > li .disabled > a:focus, .am-topbar-inverse .am-topbar-nav > li .disabled > a:hover {
+    color: #444;
+    background-color: transparent
+}
+
+.am-topbar-fixed-bottom, .am-topbar-fixed-top {
+    position: fixed;
+    right: 0;
+    left: 0;
+    z-index: 1000;
+    -webkit-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0)
+}
+
+.am-topbar-fixed-top {
+    top: 0
+}
+
+.am-topbar-fixed-bottom {
+    bottom: 0;
+    margin-bottom: 0;
+    border-width: 1px 0 0
+}
+
+.am-with-topbar-fixed-top {
+    padding-top: 51px
+}
+
+.am-with-topbar-fixed-bottom {
+    padding-bottom: 51px
+}
+
+@media only screen and (max-width: 640px) {
+    .am-topbar-fixed-bottom .am-topbar-collapse {
+        position: absolute;
+        bottom: 100%;
+        margin-bottom: 1px;
+        background-color: #f8f8f8
+    }
+
+    .am-topbar-fixed-bottom .am-topbar-collapse .am-dropdown-content:after, .am-topbar-fixed-bottom .am-topbar-collapse .am-dropdown-content:before {
+        display: none
+    }
+
+    .am-topbar-fixed-bottom.am-topbar-inverse .am-topbar-collapse {
+        background-color: #0e90d2
+    }
+}
+@media print {
+    .am-topbar {
+        display: none
+    }
+}
+.nav-backgroud-layer{
+    width: 100%;
+    height:300px;
+    background: #3d454d;
+    position: absolute;
+    /*min-width: 720px;*/
+    /*min-height: 1000px;*/
+    top:98px;
+    display: none;
+}
+
+.am-sr-only {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    margin: -1px;
+    padding: 0;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    border: 0
+}
+.am-collapse {
+    display: none
+}
+
+.am-collapse.am-in {
+    display: block
+}
+
+tr.am-collapse.am-in {
+    display: table-row
+}
+
+tbody.am-collapse.am-in {
+    display: table-row-group
+}
+.am-collapsing {
+    position: relative;
+    height: 0;
+    overflow: hidden;
+    -webkit-transition: height .3s ease;
+    transition: height .3s ease
+}
+
+
+
+/*css精简迁移 结束*/
+
+/* add header footer */
+.main-container{
+    margin-top: 100px;
+}
+.book-menu nav,.book-toc nav{
+    top: 100px;
+    bottom: 180px;
+}
+.book-page{
+    padding: 100px 0px 200px;
+}
+.clear-both{
+    clear: both;
+}
+.main-footer{
+    width: 100%;
+    /*background: red;*/
+    /*position: fixed;*/
+    bottom: 0px;
+    height: 180px;
+    float: left;
+    text-align: center;
+    padding-top: 70px;
+    font-family: PingFangSC-Regular;
+    font-size: 16px;
+    color: #9babaf;
+    letter-spacing: 0;
+    background: #eef1f4;
+}
