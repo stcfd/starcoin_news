@@ -7,6 +7,6 @@
 ```
 +++
 title = "Getting Started with Hugo"
-image = "test_bg.jpg"
+image = "test_bg.jpg aa"
 +++
 ```
