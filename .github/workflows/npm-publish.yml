@@ -24,7 +24,7 @@ jobs:
       - name: Version
         run: hugo version
       - name: Build
-        run: hugo --minify 
+        run: hugo --minify --theme hugo-swift-theme
       - name: Deploy
         # Only deploy on master.
         if: github.ref == 'refs/heads/master'
