@@ -6,6 +6,11 @@ defaultContentLanguageInSubdir = true
 theme = "hugo-swift-theme"
 enableGitInfo = false
 
+[markup]
+    [markup.goldmark]
+        [markup.goldmark.renderer]
+            unsafe = true
+
 [languages]
   [languages.en]
     languageName = "English"
