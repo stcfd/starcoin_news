@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="{{- site.Language.Lang -}}" data-theme="light">
+    {{- partial "head.html" . -}}
+    <body>
+        <div class="main">
+            <!--{{ partial "navbar.html" . }}-->
+            {{- partial "header" . }}
+            <div class="autopagerize_page_element" style="margin-top: 150px;">
+                <div class="content">
+                    {{- block "main" . }}{{- end }}
+                </div>
+            </div>
+        </div>
+        {{- partial "base_foot.html" . -}}
+    </body>
+
+</html>

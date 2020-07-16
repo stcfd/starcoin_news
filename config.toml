@@ -3,7 +3,7 @@ languageCode = "en"
 title = "Starcoin News"
 DefaultContentLanguage = "en"
 defaultContentLanguageInSubdir = true
-theme = "hugo-swift-theme"
+theme = "anatole"
 enableGitInfo = false
 
 [markup]
