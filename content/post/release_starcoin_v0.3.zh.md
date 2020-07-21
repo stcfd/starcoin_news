@@ -1,9 +1,9 @@
 +++
-title = "Starcoin 区块链发布 v0.3.0 版本"
+title = "Starcoin 区块链发布 v0.3 版本"
 date = "2020-07-21"
 +++
 
-Starcoin 区块链发布 v0.3.0 版本，主要包含叔块，难度调整动态算法以及 Starcoin MoveVM stdlib 等主要更新。
+Starcoin 区块链发布 v0.3 版本，主要包含叔块，难度调整动态算法以及 Starcoin MoveVM stdlib 等主要更新。
 
 ## 主要更新
 
