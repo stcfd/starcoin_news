@@ -1,10 +1,26 @@
 +++
-title = "Starcoin BlockChain 发布第二个测试版"
+title = "Starcoin 区块链发布了测试网版本 V0.2"
 date = "2020-06-28"
 image = 'read.jpg'
 +++
 
 <br/>
 
+Stacoin 发布了测试网版本 V0.2，该版本包含了一系列特性升级及更新。
 
-Stacoin 区块链开发者测试版 Halley 的第二个版本,该版本包含了很多新特性，比如升级了stdlib，增强了区块验证逻辑，重构了区块执行器等。开发者可以通过[这里](https://github.com/starcoinorg/starcoin/releases/tag/v0.2.0)下载预编译版本，也可以通过github下载源代码编译，具体编译方法可以参考相关[文档](http://developer.starcoin.org/en/build/)。具体使用方法可以参考使用[文档](http://developer.starcoin.org/en/first_transaction/)。
+Starcoin 是新一代的区块链公链基础设施，目标是实现一个安全的、分层的、去中心化区块链系统。
+
+Starcoin 是第一个使用 Move 智能合约的真正去中心化公链，Move 的安全特性从底层确保了数字资产的安全。
+
+
+V0.2 的主要特性包括：
+
+- 可升级的 Stdlib
+- 区块验证
+- p2p 重构, add multiple sub stream support
+- 交易重构，Transaction Executor refractor
+- 存储，Remove BlockSonsStorage
+
+开发者可以通过[这里](https://github.com/starcoinorg/starcoin/releases/tag/v0.2.0)下载预编译版本，也可以通过 GitHub 下载源代码，编译方法可以参考相关[文档](http://developer.starcoin.org/en/build/)。
+
+V0.2 可以连接到 Starcoin 第一个测试网络 Halley，使用方法请参阅 [文档](http://developer.starcoin.org/en/runnetwork/)。  

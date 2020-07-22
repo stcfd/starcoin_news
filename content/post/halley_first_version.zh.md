@@ -1,5 +1,5 @@
 +++
-title = "Starcoin 区块链发布第一个测试网版本"
+title = "Starcoin 区块链发布第一个测试网版本, 测试网 Halley 也已经同步启动"
 date = "2020-04-09"
 image = 'read.jpg'
 +++
@@ -7,15 +7,15 @@ image = 'read.jpg'
 <br/>
 
 
-Stacoin 发布了第一个测试网版本 -- Halley，该版本基本实现了一个完整的去中心化区块链网络，测试网也已经同步启动。
+Stacoin 发布了第一个测试网版本 V0.1，该版本基本实现了一个完整的去中心化区块链网络，测试网 Halley 也已经同步启动。
 
 Starcoin 是新一代的区块链公链基础设施，目标是实现一个安全的、分层的、去中心化区块链系统。
 
 Starcoin 是第一个使用 Move 智能合约的真正去中心化公链，Move 的安全特性从底层确保了数字资产的安全。
 
-Halley 完成了 Starcoin 一层主要功能，可以安全快速的定义数字资产，并具备通过智能合约实现资产转移交换等能力。
+V0.1 完成了 Starcoin 一层主要功能，可以安全快速的定义数字资产，并具备通过智能合约实现资产转移交换等能力。
 
-Halley 的主要特性包括：
+V0.1 的主要特性包括：
 
 - 安全
 
@@ -31,4 +31,4 @@ Starcoin 提供一套智能合约的基础库 stdlib，内置基础的工具库�
 
 开发者可以通过[这里](https://github.com/starcoinorg/starcoin/releases/tag/v0.1.0-alpha)下载预编译版本，也可以通过 GitHub 下载源代码，编译方法可以参考相关[文档](http://developer.starcoin.org/en/build/)。
 
-Starcoin 测试网使用方法可以参考 [文档](http://developer.starcoin.org/en/first_transaction/)。  
+Starcoin 目前可以通过 Halley 来访问，Halley 是 Starcoin 第一个测试网络，使用方法请参阅 [文档](http://developer.starcoin.org/en/runnetwork/)。  
