@@ -2,6 +2,7 @@
 title = "Starcoin 区块链发布第一个测试网版本, 测试网 Halley 也已经同步启动"
 date = "2020-04-09"
 image = 'read.jpg'
+summary = " "
 +++
 
 <br/>

@@ -2,6 +2,7 @@
 title = "Starcoin 区块链发布了测试网版本 V0.2"
 date = "2020-06-28"
 image = 'read.jpg'
+summary = " "
 +++
 
 <br/>
