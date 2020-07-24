@@ -2,6 +2,10 @@
 title = "Starcoin 区块链发布 v0.3 版本"
 date = "2020-07-21"
 summary = " "
+tags = [
+    "Epoch",
+    "Starcoin"
+]
 +++
 
 Starcoin 区块链发布 v0.3 版本，主要包含叔块，难度调整动态算法以及 Starcoin MoveVM stdlib 等主要更新。
@@ -12,7 +16,7 @@ Starcoin 区块链发布 v0.3 版本，主要包含叔块，难度调整动态�
 2. 引入 `Package` 交易类型，支持批量部署多个 Module 以及附带初始化脚本。
 3. Token 模块以及发行机制的稳定化，Token 的值从 u64 改为 u128，可以支持更大的总量以及更高的精度。
 4. 实现了 Transaction fee 的分发合约。
-5. Stdlib 增加了 SortedLinkedList，Math，BitOperators 模块。 
+5. Stdlib 增加了 SortedLinkedList，Math，BitOperators 模块。
 6. 重构了 BlockReword 合约，以适应 Epoch 以及叔块机制。
 7. 提供了 Module 升级机制，开发者可以自定义合约升级的策略。实现了升级 Module 的兼容性检查，保证升级时和旧的版本兼容。
 8. 重构 Genesis，通过 Package 交易实现 Genesis 交易。简化 Genesis Account，只保留 0x1 一个 Genesis account。

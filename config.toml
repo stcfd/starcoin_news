@@ -3,7 +3,18 @@ languageCode = "en"
 title = "Starcoin News"
 DefaultContentLanguage = "en"
 defaultContentLanguageInSubdir = true
-theme = "anatole"
+#theme = "anatole"
+
+
+theme = "jeffprod"
+[permalinks]
+    post = "/:year/:filename"
+
+[taxonomies]
+    tag = "tags"
+    archive = "archives"
+
+
 enableGitInfo = false
 
 [markup]

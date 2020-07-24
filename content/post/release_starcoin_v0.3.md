@@ -2,6 +2,10 @@
 title = "Starcoin Blockchain release v0.3"
 summary = "Starcoin blockchain is released in v0.3, which includes unified block, dynamic algorithm for difficulty adjustment and Starcoin MoveVM stdlib."
 date = "2020-07-21"
+tags = [
+    "Epoch",
+    "Starcoin"
+]
 +++
 
 Starcoin blockchain is released in v0.3, which includes unified block, dynamic algorithm for difficulty adjustment and Starcoin MoveVM stdlib.
@@ -12,7 +16,7 @@ Starcoin blockchain is released in v0.3, which includes unified block, dynamic a
 2. The `Package` transaction type is introduced, which supports batch deployment of multiple Modules with initialization scripts.
 3. Stabilization of Token module and issuance mechanism, the value of Token is changed from u64 to u128, which can support larger total amount and higher accuracy.
 4. Implementation of Transaction fee distribution contracts.
-5. Stdlib added SortedLinkedList, Math, BitOperators modules. 
+5. Stdlib added SortedLinkedList, Math, BitOperators modules.
 6. The BlockReword contract was refactored to accommodate Epoch and Uncle Block mechanisms.
 7. Module upgrade mechanism is provided, and developers can customize the strategy of contract upgrade. Module upgrade compatibility check is implemented to ensure compatibility with the old version when upgrading.
 8. Refactor Genesis to implement Genesis transaction via Package transaction. Simplify Genesis Account, retaining only 0x1 Genesis account.
@@ -26,4 +30,4 @@ Starcoin blockchain is released in v0.3, which includes unified block, dynamic a
 2. libp2p bump to 0.22.
 3. rust tool chain bump to 1.44.1.
 
-For a full rundown of the changes please consult the Starcoin 0.3.0 [release milestone](https://github.com/starcoinorg/starcoin/milestone/8). 
+For a full rundown of the changes please consult the Starcoin 0.3.0 [release milestone](https://github.com/starcoinorg/starcoin/milestone/8).
