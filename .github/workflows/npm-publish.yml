@@ -24,7 +24,7 @@ jobs:
       - name: Version
         run: hugo version
       - name: Build
-        run: hugo --minify --theme anatole
+        run: hugo --minify --theme jeffprod
       - name: Deploy
         # Only deploy on master.
         if: github.ref == 'refs/heads/master'
