@@ -3,6 +3,7 @@ title = "Starcoin 区块链发布第一个测试网版本, 测试网 Halley 也�
 date = "2020-04-09"
 image = 'read.jpg'
 summary = " "
+archives="2020"
 +++
 
 <br/>
@@ -32,4 +33,4 @@ Starcoin 提供一套智能合约的基础库 stdlib，内置基础的工具库�
 
 开发者可以通过[这里](https://github.com/starcoinorg/starcoin/releases/tag/v0.1.0-alpha)下载预编译版本，也可以通过 GitHub 下载源代码，编译方法可以参考相关[文档](http://developer.starcoin.org/en/build/)。
 
-Starcoin 目前可以通过 Halley 来访问，Halley 是 Starcoin 第一个测试网络，使用方法请参阅 [文档](http://developer.starcoin.org/en/runnetwork/)。  
+Starcoin 目前可以通过 Halley 来访问，Halley 是 Starcoin 第一个测试网络，使用方法请参阅 [文档](http://developer.starcoin.org/en/runnetwork/)。

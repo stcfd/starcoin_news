@@ -6,6 +6,7 @@ tags = [
     "Epoch",
     "Starcoin"
 ]
+archives="2020"
 +++
 
 Starcoin 区块链发布 v0.3 版本，主要包含叔块，难度调整动态算法以及 Starcoin MoveVM stdlib 等主要更新。

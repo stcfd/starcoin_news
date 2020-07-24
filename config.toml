@@ -7,12 +7,14 @@ defaultContentLanguageInSubdir = true
 
 
 theme = "jeffprod"
-[permalinks]
-    post = "/:year/:filename"
-
+#canonifyurls = true
+#paginate = 3
+features = ["pagination","archives","tags"]
 [taxonomies]
     tag = "tags"
     archive = "archives"
+[permalinks]
+    post = "/:year/:filename"
 
 
 enableGitInfo = false
