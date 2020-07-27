@@ -14,7 +14,9 @@
                         {{ .Title }}
                         {{ end }}
                     </h1>
-                        </div>
+                </div>
+                Published at {{ .Date.Format "January 2, 2006" }} By {{ $.Param "author" }}.
+                <hr style="margin: 5px 0px 1.5rem 0px;"/>
                         {{ .Content }}
                     </div>
                 </div>
