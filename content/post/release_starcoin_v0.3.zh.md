@@ -2,7 +2,7 @@
 title = "Starcoin 区块链发布 v0.3 版本"
 date = "2020-07-21"
 summary = " "
-author = "Alex"
+author = "jolestar"
 tags = [
     "Epoch",
     "Starcoin"
