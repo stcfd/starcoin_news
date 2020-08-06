@@ -1,7 +1,7 @@
 baseURL = "http://news.starcoin.org/"
-languageCode = "en"
+languageCode = "zh"
 title = "Starcoin News"
-DefaultContentLanguage = "en"
+DefaultContentLanguage = "zh"
 defaultContentLanguageInSubdir = true
 #theme = "anatole"
 
