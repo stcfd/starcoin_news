@@ -35,4 +35,4 @@ Starcoin 区块链发布 v0.4 版本，主要包括模块重构以及基本类�
 1. move-vm bump to 9eadc565466d3db3a2b6b4f38c3fea78dcddc372 (July 29) .
 2. rust tool chain bump to 1.45.0.
 
-更多详细的信息请参看 [release milestone](https://github.com/starcoinorg/starcoin/milestone/8) 。
+更多详细的信息请参看 [release milestone](https://github.com/starcoinorg/starcoin/milestone/9) 。
