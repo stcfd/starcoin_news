@@ -10,7 +10,7 @@ tags = [
 archives="2020"
 +++
 
-Starcoin Blockchain releases v0.4, which includes refactoring and stabilization of basic types and protocols. One month after that, Starcoin Blockchain will start a month-long unabridged beta test. Feel free to download Starcoin and join the Proxima test network.
+Starcoin Blockchain releases v0.4, which includes refactoring and stabilization of basic types and protocols. One month after that, Starcoin Blockchain will start a month-long unabridged beta test. Feel free to [download](https://github.com/starcoinorg/starcoin/releases/) Starcoin and join the Proxima test network.
 
 ## Main feature and update
 

@@ -10,7 +10,7 @@ tags = [
 archives="2020"
 +++
 
-Starcoin 区块链发布 v0.4 版本，主要包括模块重构以及基本类型和协议的稳定化。之后一个月，Starcoin 区块链将开启为期一个月的不删档公测。欢迎[下载](https://github.com/starcoinorg/starcoin/releases/tag/v0.4.0) Starcoin 加入 Proxima 测试网络进行测试。 
+Starcoin 区块链发布 v0.4 版本，主要包括模块重构以及基本类型和协议的稳定化。之后一个月，Starcoin 区块链将开启为期一个月的不删档公测。欢迎[下载](https://github.com/starcoinorg/starcoin/releases/) Starcoin 加入 Proxima 测试网络进行测试。 
 
 ## 主要更新
 
