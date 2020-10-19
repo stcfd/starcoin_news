@@ -1,6 +1,7 @@
 +++
 title = "Starcoin Blockchain release v0.5"
 summary = "Starcoin Blockchain released v0.5, which is a major refactoring of the Block, Genesis, Stalib modules, and implements the new Service Registry framework and adds a new Consensus Algorithm. The last version has been running stably for more than a month without deleting data, deployed six test nodes, and has reached more than 300,000 blocks of data. Feel free to download Starcoin to join the Proxima test network for testing!"
+date = "2020-09-20"
 author = "suoyuan"
 tags = [
     "Release",
