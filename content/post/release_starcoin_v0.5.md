@@ -1,6 +1,6 @@
 +++
 title = "Starcoin Blockchain release v0.5"
-summary = "Starcoin Blockchain released v0.5, which is a major refactoring of the Block, Genesis, Stalib modules, and implements the new Service Registry framework and adds a new Consensus Algorithm. The last version has been running stably for more than a month without deleting data, deployed six test nodes, and has reached more than 300,000 blocks of data. Feel free to download Starcoin to join the Proxima test network for testing!"
+summary = "Starcoin Blockchain released v0.5, which is a major refactoring of the Block, Genesis, Stdlib modules, and implements the new Service Registry framework and adds a new Consensus Algorithm. The last version has been running stably for more than a month without deleting data, deployed six test nodes, and has reached more than 300,000 blocks of data. Feel free to download Starcoin to join the Proxima test network for testing!"
 date = "2020-09-20"
 author = "suoyuan"
 tags = [
@@ -10,7 +10,7 @@ tags = [
 archives="2020"
 +++
 
-Starcoin Blockchain released v0.5, which is a major refactoring of the Block, Genesis, Stalib modules, and implements the new Service Registry framework and adds a new Consensus Algorithm. The last version has been running stably for more than a month without deleting data, deployed six test nodes, and has reached more than 300,000 blocks of data. Feel free to download [download](https://github.com/starcoinorg/starcoin/releases/) Starcoin to join the Proxima test network for testing!
+Starcoin Blockchain released v0.5, which is a major refactoring of the Block, Genesis, Stdlib modules, and implements the new Service Registry framework and adds a new Consensus Algorithm. The last version has been running stably for more than a month without deleting data, deployed six test nodes, and has reached more than 300,000 blocks of data. Feel free to download [download](https://github.com/starcoinorg/starcoin/releases/) Starcoin to join the Proxima test network for testing!
 
 ## Main feature and update
 
@@ -31,6 +31,6 @@ Starcoin Blockchain released v0.5, which is a major refactoring of the Block, Ge
 ## Main dependency bump
 
 1. move-vm bump to e297690c7ffbab2eccb42245a407e5d03e715ba3 (August 26) .
-3. rust tool chain bump to 1.46.0.
+2. rust tool chain bump to 1.46.0.
 
 For a full rundown of the changes please consult the Starcoin 0.5 [release milestone](https://github.com/starcoinorg/starcoin/milestone/10)
