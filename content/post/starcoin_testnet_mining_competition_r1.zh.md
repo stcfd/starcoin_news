@@ -4,6 +4,7 @@ date = "2020-12-16"
 summary = "starcoin testnet mining competition round one is comming"
 archives="2020"
 author = "starcoin-core"
+image = "starcoin_mining_competition.png starcoin_mining_competition_r1"
 tags = [
     "Testnet",
     "Starcoin",

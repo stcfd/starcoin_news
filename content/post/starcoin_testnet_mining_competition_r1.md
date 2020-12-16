@@ -4,6 +4,7 @@ date = "2020-12-16"
 summary = "starcoin testnet mining competition round one is comming"
 archives="2020"
 author = "starcoin-core"
+image = "starcoin_mining_competition.png starcoin_mining_competition_r1"
 tags = [
     "Testnet",
     "Starcoin",
@@ -12,7 +13,7 @@ tags = [
 ]
 +++
 
-To reward our community for participating in the construction of Starcoin network, Starcoin will be hosting a test network mining contest.
+To reward our community for participating in the construction of Starcoin network, Starcoin will be hosting a test network mining competition.
 
 Having your first bitcoin in your life is getting harder and harder, but you still have a chance to have your first **Starcoin**! **Just One-click to participate in the** Starcoin test network mining competition, to feel the original joy of mining with a personal computer, and win the 10,000 USDT! This competiton is not only for the hackers, all participants will have the chance to be rewards
 
