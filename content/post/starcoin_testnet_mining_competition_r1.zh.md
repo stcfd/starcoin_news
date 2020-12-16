@@ -1,14 +1,14 @@
 +++
-title = "Starcoin星际争霸·瓜分万U  ——  挖矿第一期"
+title = "星际争霸·瓜分万U  ——  Starcoin 挖矿比赛第一期"
 date = "2020-12-16"
 summary = "starcoin testnet mining competition round one is comming"
 archives="2020"
 author = "starcoin-core"
 tags = [
     "Testnet",
-    "Starcoin"
-	"Mining"
-	"Competition"
+    "Starcoin",
+	"Mining",
+	"Competition",
 ]
 +++
 
