@@ -13,7 +13,7 @@ tags = [
 ]
 +++
 
-![image][images/starcoin_mining_competition.png]
+![image](http://news.starcoin.org/images/starcoin_mining_competition.png)
 
 To reward our community for participating in the construction of Starcoin network, Starcoin will be hosting a test network mining competition.
 
