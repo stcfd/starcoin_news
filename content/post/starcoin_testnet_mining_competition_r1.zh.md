@@ -13,6 +13,8 @@ tags = [
 ]
 +++
 
+![image](http://news.starcoin.org/images/starcoin_mining_competition.png)
+
 为了让社区更好地参与 Starcoin 的建设，Starcoin 将举办测试网挖矿大赛。
 
 ”拥有人生中第一枚比特币已经是越来越难的一件事，但拥有第一枚 Starcoin 你还有机会！**真·小白一键参与** Starcoin 测试网挖矿活动，来感受一台电脑就能挖矿的原始快乐，瓜分价值万 U 奖金！不仅算力大牛有奖，所有参与挖矿的用户都有机会抽得幸运奖及分享奖！“
