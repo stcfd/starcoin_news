@@ -42,6 +42,8 @@ tags = [
 竞赛周期内，在微博/微信内分享本人挖矿页面海报者，均有机会获得分享金。
 + 微博：发布微博关注并 @[Starcoin区块链](https://weibo.com/u/7480684466) ，活动结束后将用微博抽奖工具抽出3位用户每人发放30USD+30STC 。
 + 微信：分享微信朋友圈集赞留言数量最多的前3位用户每人发放30USD+30STC (微信集赞请添加 Starcoin 小助手微信：starcoinorg)。
++ 海报获取方式：在 Starcoin 挖矿程序窗口点击右上角箭头，即可一键生成海报图片。
+
 
 #### 奖金说明
 
@@ -49,6 +51,7 @@ tags = [
 2. 本次挖矿活动奖金池设置约为5000USDT+5000STC ,总价值近万 U。 活动最终解释权归 Starcoin。
 
 ## 开始挖矿
+
 #### 使用官方命令行工具
 1. [下载 && 安装](http://developer.starcoin.org/zh/install)
 2. [启动节点加入 Starcoin Proxima 测试网络](http://developer.starcoin.org/zh/runnetwork/#%e5%8a%a0%e5%85%a5-proxima-%e7%bd%91%e7%bb%9c)。
@@ -63,18 +66,21 @@ tags = [
    
 更多命令请参考[开发者手册](http://developer.starcoin.org)
 
+#### 使用桌面客户端(建议新手)
 
-### 使用桌面客户端
+![image](http://news.starcoin.org/images/macos-security.png)
 
 1. 下载对应系统的版本(Support MacOs,Windows)：[Github 下载链接](https://github.com/starcoinorg/starcoin_node_gui/releases/tag/v0.1)
 2. 解压后点击 **starcoin_node** 启动
-3. 权限设置(For MacOs, Windows 版本启动程序后，跳出安全弹窗点击确认即可)。
+3. 弹出安全提示窗口，点击：「好」
+4. 打开电脑 系统偏好设置（齿轮图标）-->安全性与隐私--> 点击「仍要打开」（页面右下角）
+5. 弹出安全提示窗口，点击：「打开」
+6. Starcoin 挖矿程序窗口：创建昵称-->确认-->点击小三角即可开始挖矿。
 
-   ![image](http://news.starcoin.org/images/macos-security.png)
-   
-   1. 弹出安全提示窗口，点击：「好」
-   2. 打开电脑 系统偏好设置（齿轮图标）-->安全性与隐私--> 点击「仍要打开」（页面右下角）
-   3. 弹出安全提示窗口，点击：「打开」
-   4. Starcoin 挖矿程序窗口：创建昵称-->确认-->点击小三角即可开始挖矿。
-   
+Windows版本启动程序后，跳出安全弹窗点击确认即可。
 
+## 关于我们
++ [Github](https://github.com/starcoinorg/starcoin)
++ [starcoin.org](http://starcoin.org/)
++ Starcoin 助手微信
+  ![image](http://news.starcoin.org/images/westar_weixin.jpeg)
