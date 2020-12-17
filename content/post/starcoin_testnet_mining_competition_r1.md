@@ -1,5 +1,5 @@
 +++
-title = "Starcraft·Win 10,000 Usdt  ——  Starcoin mining competition round 1"
+title = "Starcraft·Win 10,000 USDT  ——  Starcoin mining competition round 1"
 date = "2020-12-16"
 summary = "starcoin testnet mining competition round one is comming"
 archives="2020"
@@ -33,25 +33,25 @@ Start：December 18, 2020 00:00:00 (UTC+8)
 End：31 December 2020 23:59:59 (UTC+8)
 
 ## Rewards distribution
-#### Competition rewards【1800USD+1800STC】
+#### Competition rewards【1800USDT+1800STC】
 The top 3 addresses with the most blocks mined during the competition period will win this rewards pool, distributed as follows.
 
-Top1：1000 USD + 1000 STC
+Top1：1000 USDT + 1000 STC
 
-Top2：500 USD + 600 STC
+Top2：500 USDT + 600 STC
 
-Top3：300 USD + 300 STC
+Top3：300 USDT + 300 STC
 
-#### Lucky rewards【3000USD+3000STC】
+#### Lucky rewards【3000USDT+3000STC】
 All addresses participating in mining will have the opportunity to participate in the lottery.
 
 according to the open source and transparent [lottery rules](https://github.com/starcoinorg/stcmint-fight) to draw 1% of the addresses to split **3000USDT+3000STC**
 
-#### Sharing rewards【180USD+180STC】
+#### Sharing rewards【180USDT+180STC】
 During the competition period, those who share their mining page posters in Weibo/WeChat will have a chance to get sharing rewards.
 
-+ Weibo: Post a Weibo follow and @[Starcoin Blockchain](https://weibo.com/u/7480684466), 3 users will be drawn with the Weibo lottery tool after the event to receive 30USD+30STC each.
-+ WeChat: 30USD+30STC will be awarded to each of the top 3 users who share the most number of likes and comments in their WeChat circle (For WeChat likes, please add Starcoin assistant WeChat: starcoinorg).
++ Weibo: Post a Weibo follow and @[Starcoin Blockchain](https://weibo.com/u/7480684466), 3 users will be drawn with the Weibo lottery tool after the event to receive 30USDT+30STC each.
++ WeChat: 30USDT+30STC will be awarded to each of the top 3 users who share the most number of likes and comments in their WeChat circle (For WeChat likes, please add Starcoin assistant WeChat: starcoinorg).
 
 #### Rewards distrbution
 1. All USDT+STC rewards will be verified and distribte in 1 month after Starcoin main netwrok, which is expected to be in the first quarter of 2021.

@@ -29,19 +29,19 @@ tags = [
 结束时间：2020月12日31日 23:59:59 （ UTC+8 ）
 
 ## 奖励规则
-#### 奖项一：霸王星 【1800USD+1800STC】
+#### 奖项一：霸王星 【1800USDT+1800STC】
 竞赛周期内，挖出区块最多的地址前 3 名赢取该奖励，具体分配如下。
-第一名：1000 USD + 1000 STC
-第二名：500 USD + 600 STC
-第三名：300 USD + 300 STC
+第一名：1000 USDT + 1000 STC
+第二名：500 USDT + 600 STC
+第三名：300 USDT + 300 STC
 
-#### 奖项二：幸运星 【3000USD+3000STC】
+#### 奖项二：幸运星 【3000USDT+3000STC】
 竞赛周期内，所有参与挖矿的地址均有机会参与抽奖，按照公开透明的[抽奖规则](https://github.com/starcoinorg/stcmint-fight) 抽取成功出块的 1% 地址平分 **3000USDT+3000STC**
 
-#### 奖项三：分享星 【180USD+180STC】
+#### 奖项三：分享星 【180USDT+180STC】
 竞赛周期内，在微博/微信内分享本人挖矿页面海报者，均有机会获得分享金。
-+ 微博：发布微博关注并 @[Starcoin区块链](https://weibo.com/u/7480684466) ，活动结束后将用微博抽奖工具抽出3位用户每人发放30USD+30STC 。
-+ 微信：分享微信朋友圈集赞留言数量最多的前3位用户每人发放30USD+30STC (微信集赞请添加 Starcoin 小助手微信：starcoinorg)。
++ 微博：发布微博关注并 @[Starcoin区块链](https://weibo.com/u/7480684466) ，活动结束后将用微博抽奖工具抽出3位用户每人发放30USDT+30STC 。
++ 微信：分享微信朋友圈集赞留言数量最多的前3位用户每人发放 30USDT+30STC (微信集赞请添加 Starcoin 小助手微信：starcoinorg)。
 + 海报获取方式：在 Starcoin 挖矿程序窗口点击右上角箭头，即可一键生成海报图片。
 
 
@@ -67,16 +67,13 @@ tags = [
 更多命令请参考[开发者手册](http://developer.starcoin.org)
 
 #### 使用桌面客户端(建议新手)
-
-![image](http://news.starcoin.org/images/macos-security.png)
-
 1. 下载对应系统的版本(Support MacOs,Windows)：[Github 下载链接](https://github.com/starcoinorg/starcoin_node_gui/releases)
 2. 解压后点击 **starcoin_node** 启动
 3. 弹出安全提示窗口，点击：「好」
 4. 打开电脑 系统偏好设置（齿轮图标）-->安全性与隐私--> 点击「仍要打开」（页面右下角）
 5. 弹出安全提示窗口，点击：「打开」
 6. Starcoin 挖矿程序窗口：创建昵称-->确认-->点击小三角即可开始挖矿。
-
+![image](http://news.starcoin.org/images/macos-security.png)
 Windows版本启动程序后，跳出安全弹窗点击确认即可。
 
 ## 关于我们
