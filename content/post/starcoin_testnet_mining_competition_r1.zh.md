@@ -70,7 +70,7 @@ tags = [
 
 ![image](http://news.starcoin.org/images/macos-security.png)
 
-1. 下载对应系统的版本(Support MacOs,Windows)：[Github 下载链接](https://github.com/starcoinorg/starcoin_node_gui/releases/tag/v0.1)
+1. 下载对应系统的版本(Support MacOs,Windows)：[Github 下载链接](https://github.com/starcoinorg/starcoin_node_gui/releases)
 2. 解压后点击 **starcoin_node** 启动
 3. 弹出安全提示窗口，点击：「好」
 4. 打开电脑 系统偏好设置（齿轮图标）-->安全性与隐私--> 点击「仍要打开」（页面右下角）
