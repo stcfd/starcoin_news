@@ -41,7 +41,7 @@ tags = [
 #### 奖项三：分享星 【180USDT+180STC】
 竞赛周期内，在微博/微信内分享本人挖矿页面海报者，均有机会获得分享金。
 + 微博：发布微博关注并 @[Starcoin区块链](https://weibo.com/u/7480684466) ，活动结束后将用微博抽奖工具抽出3位用户每人发放30USDT+30STC 。
-+ 微信：分享微信朋友圈集赞留言数量最多的前3位用户每人发放 30USDT+30STC (微信集赞请添加 Starcoin 小助手微信：starcoinorg)。
++ 微信：分享微信朋友圈集赞留言数量最多的前3位用户每人发放 30USDT+30STC (微信集赞请添加 Starcoin 小助手微信： Aliya_xi)。
 + 海报获取方式：在 Starcoin 挖矿程序窗口点击右上角箭头，即可一键生成海报图片。
 
 
@@ -58,12 +58,16 @@ tags = [
 	*注*: 节点加入网络后会启动一个线程挖矿，可从节点配置修改线程数。
 3. (*可选*)额外启动[挖矿客户端](http://developer.starcoin.org/zh/mint/)连接到节点挖矿。
 
-4. 查看余额状态。
-   在 starcoin console 下输入:
-   ```
-   >> account show
-   ```
+4. 使用命令行查看节点信息, 在 starcoin console 下输入:
+   ``` 
+   >> help # 查看所有命令
    
+   >> account show # 查看账号信息
+   
+   >> account export <account_address> -p <password> # 导出 private key
+   
+   >> node sync progress # 查看同步进度
+   ```
 更多命令请参考[开发者手册](http://developer.starcoin.org)
 
 #### 使用桌面客户端(建议新手)
@@ -79,6 +83,4 @@ Windows版本启动程序后，跳出安全弹窗点击确认即可。
 ## 关于我们
 + [starcoin.org](http://starcoin.org/)
 + [Github](https://github.com/starcoinorg/starcoin)
-+ Starcoin 助手微信
-
-  <img src="http://news.starcoin.org/images/westar_weixin.jpeg" alt="drawing" width="150"/>
++ Starcoin 微信助手：Aliya_xi
