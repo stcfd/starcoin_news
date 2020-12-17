@@ -57,3 +57,22 @@ During the competition period, those who share their mining page posters in Weib
 1. All USDT+STC rewards will be verified and distribte in 1 month after Starcoin main netwrok, which is expected to be in the first quarter of 2021.
 
 2. The rewards pool of this mining competition is about 5000 USDT+5000 STC, with a total value of nearly 10,000 U. The final right to explain the activity belongs to Starcoin.
+
+## Mining guide
+#### Official command line tools
+1. Download && install [see Github](http://developer.starcoin.org/en/install)
+2. [Join](http://developer.starcoin.org/en/runnetwork/#join-proxima-network) Starcoin Proxima test network.
+
+   *Note*: Starcoin node will start one thread for mining, modify it in starcoin configuration file.
+3. (*Option*)Connect your node with [starcoin miner_client](http://developer.starcoin.org/zh/mint/) for mining
+4. Check account status,in starcoin console
+   ```
+   >> account show
+   ```
+   
+More details: [starcoin developer guides](http://developer.starcoin.org)
+
+
+### Starcoin node Gui 
+
+Please See [starcoin_node_gui](https://github.com/starcoinorg/starcoin_node_gui)

@@ -68,7 +68,7 @@ tags = [
 
 1. 下载对应系统的版本(Support MacOs,Windows)：[Github 下载链接](https://github.com/starcoinorg/starcoin_node_gui/releases/tag/v0.1)
 2. 解压后点击 **starcoin_node** 启动
-3. 权限设置(For MacOs) Windows 版本启动程序后，跳出安全弹窗点击确认即可。) 
+3. 权限设置(For MacOs, Windows 版本启动程序后，跳出安全弹窗点击确认即可)。
 
    ![image](http://news.starcoin.org/images/macos-security.png)
    
