@@ -80,7 +80,8 @@ tags = [
 Windows版本启动程序后，跳出安全弹窗点击确认即可。
 
 ## 关于我们
-+ [Github](https://github.com/starcoinorg/starcoin)
 + [starcoin.org](http://starcoin.org/)
++ [Github](https://github.com/starcoinorg/starcoin)
 + Starcoin 助手微信
-  ![image](http://news.starcoin.org/images/westar_weixin.jpeg)
+
+  <img src="http://news.starcoin.org/images/westar_weixin.jpeg" alt="drawing" width="150"/>
