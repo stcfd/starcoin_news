@@ -1,7 +1,7 @@
 +++
 title = "Starcoin 区块链发布 v0.7 版本"
 date = "2020-10-27"
-summary = "Starcoin 区块链发布 v0.7 版本，在上个版本已经稳定运行了一个多月的基础上，对Chain、共识、Stdlib、Network等模块持续优化，实现CNR共识算法，调整时间精度，提升Spec验证覆盖率到90%以上。欢迎下载 Starcoin 加入 Proxima 测试网络进行测试。"
+summary = "Starcoin 区块链发布 v0.7 版本，在上个版本已经稳定运行了一个多月的基础上，对Chain、共识、Stdlib、Network等模块持续优化，增加CNR共识算法，调整时间精度，提升Spec形式化验证覆盖率到90%以上。欢迎下载 Starcoin 加入 Proxima 测试网络进行测试。"
 author = "suoyuan"
 tags = [
     "Release",
@@ -10,7 +10,7 @@ tags = [
 archives="2020"
 +++
 
-Starcoin 区块链发布 v0.7 版本，在上个版本已经稳定运行了一个多月的基础上，对Chain、共识、Stdlib、Network等模块持续优化，实现CNR共识算法，调整时间精度，提升Spec验证覆盖率到90%以上。欢迎[下载](https://github.com/starcoinorg/starcoin/releases/) Starcoin 加入 Proxima 测试网络进行测试。
+Starcoin 区块链发布 v0.7 版本，在上个版本已经稳定运行了一个多月的基础上，对Chain、共识、Stdlib、Network等模块持续优化，增加了CNR共识算法，调整时间精度，提升Spec形式化验证覆盖率到90%以上。欢迎[下载](https://github.com/starcoinorg/starcoin/releases/) Starcoin 加入 Proxima 测试网络进行测试。
 
 ## 主要更新
 
