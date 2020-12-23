@@ -43,7 +43,7 @@ tags = [
 * 微博：转发@Starcoin区块链 *置顶微博* 并评论附加图片（本人挖矿页面图片，含地址及显示已挖块≥1）活动结束后将用微博抽奖工具抽出3位用户每人发放 30 USDT+30 STC 。
 * 微信：分享微信朋友圈【海报+附带微博活动链接】集赞留言。集赞留言数量最多的前3位用户每人发放 30 USDT+30 STC
   
-  微信集赞后截图请发 Starcoin小助手：Aliya_xi
+  微信集赞后截图请发 Starcoin小助手：starcoinorg
   
 海报获取方式
 * 桌面客户端： Starcoin 挖矿程序窗口点击右上角箭头，即可一键生成海报图片。
@@ -87,4 +87,4 @@ Windows版本启动程序后，跳出安全弹窗点击确认即可。
 ## 关于我们
 + [starcoin.org](http://starcoin.org/)
 + [Github](https://github.com/starcoinorg/starcoin)
-+ Starcoin 微信助手：Aliya_xi
++ Starcoin 微信助手：starcoinorg
