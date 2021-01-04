@@ -1,5 +1,5 @@
 +++
-title = "Starcoin 挖矿比赛第一期结果"
+title = "Starcoin 测试网挖矿比赛第一期结果"
 date = "2020-01-05"
 summary = "starcoin testnet mining competition round one is finish"
 archives="2020"
