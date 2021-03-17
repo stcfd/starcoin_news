@@ -1,5 +1,5 @@
 +++
-title = "Starcoin区块链安全赏金计划"
+title = "Starcoin 区块链安全赏金计划"
 date = "2021-03-17"
 summary = " "
 author = "fikgol"
@@ -20,9 +20,9 @@ Starcoin 是新一代分层的智能合约和分布式金融网络，它旨在�
 * 分层网络模型，一二层共同解决区块链扩展性难题
 
 
-活动时间： 2021.3.24 -- 2021.4.24 (tel:3152021415)
-参与入口：Starcoin github (https://github.com/starcoinorg/starcoin)
-漏洞提交：Starcoin github issue (https://github.com/starcoinorg/starcoin/issues)
+活动时间： 2021.3.24 -- 2021.4.24
+参与入口：[Starcoin github](https://github.com/starcoinorg/starcoin)
+漏洞提交：[Starcoin github issue](https://github.com/starcoinorg/starcoin/issues)
 
 本次活动不仅有包含USDT及STC主网币的丰厚奖金池，更将赠予每位参与用户一台Starcoin矿机。在主网上线后即可同步参与挖矿，第一时间掘得Starcoin主网币。
 
