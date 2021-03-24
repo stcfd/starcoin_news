@@ -13,7 +13,7 @@ tags = [
 ]
 +++
 
-![image](http://news.starcoin.org/images/starcoin_mining_competition.png)
+![image](https://news.starcoin.org/images/starcoin_mining_competition.png)
 
 为了让社区更好地参与 Starcoin 的建设，Starcoin 将举办测试网挖矿大赛。
 
@@ -57,10 +57,10 @@ tags = [
 ## 开始挖矿
 
 #### 使用官方命令行工具
-1. [下载 && 安装](http://developer.starcoin.org/zh/install)
-2. [启动节点加入 Starcoin Proxima 测试网络](http://developer.starcoin.org/zh/runnetwork/#%e5%8a%a0%e5%85%a5-proxima-%e7%bd%91%e7%bb%9c)。
+1. [下载 && 安装](https://developer.starcoin.org/zh/install)
+2. [启动节点加入 Starcoin Proxima 测试网络](https://developer.starcoin.org/zh/runnetwork/#%e5%8a%a0%e5%85%a5-proxima-%e7%bd%91%e7%bb%9c)。
 	*注*: 节点加入网络后会启动一个线程挖矿，可从节点配置修改线程数。
-3. (*可选*)额外启动[挖矿客户端](http://developer.starcoin.org/zh/mint/)连接到节点挖矿。
+3. (*可选*)额外启动[挖矿客户端](https://developer.starcoin.org/zh/mint/)连接到节点挖矿。
 
 4. 使用命令行查看节点信息, 在 starcoin console 下输入:
    ``` 
@@ -72,7 +72,7 @@ tags = [
    
    >> node sync progress # 查看同步进度
    ```
-更多命令请参考[开发者手册](http://developer.starcoin.org)
+更多命令请参考[开发者手册](https://developer.starcoin.org)
 
 #### 使用桌面客户端(建议新手)
 1. 下载对应系统的版本(Support MacOs,Windows)：[Github 下载链接](https://github.com/starcoinorg/starcoin_node_gui/releases)
@@ -81,10 +81,10 @@ tags = [
 4. 打开电脑 系统偏好设置（齿轮图标）-->安全性与隐私--> 点击「仍要打开」（页面右下角）
 5. 弹出安全提示窗口，点击：「打开」
 6. Starcoin 挖矿程序窗口：创建昵称-->确认-->点击小三角即可开始挖矿。
-![image](http://news.starcoin.org/images/macos-security.png)
+![image](https://news.starcoin.org/images/macos-security.png)
 Windows版本启动程序后，跳出安全弹窗点击确认即可。
 
 ## 关于我们
-+ [starcoin.org](http://starcoin.org/)
++ [starcoin.org](https://starcoin.org/)
 + [Github](https://github.com/starcoinorg/starcoin)
 + Starcoin 微信助手：starcoinorg
