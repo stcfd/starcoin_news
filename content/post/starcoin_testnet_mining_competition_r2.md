@@ -18,15 +18,15 @@ The mining event allowed everyone to experience the Starcoin test network's mini
 
 After recent optimisations and upgrades, we are now launching the second phase of the Starcoin Barnard test network mining campaign! The Barnard network will generate Genesis blocks based on the Proxima network with a height of 956,666 blocks, and users worldwide will be able to launch the network together.
 
-*This is the final round of beta mining before the Starcoin mainnet goes live, which will also be based on the Barnard network. Double the prize pool, double the time and double the prizes! We will also be giving away a number of Starcoin miners to be mined at the same time as the launch of the main network, so you can be the first to get your hands on Starcoin mainnet coins. *Starcoin
+This is the final round of beta mining before the Starcoin mainnet goes live, which will also be based on the Barnard network. Double the prize pool, double the time and double the prizes! We will also be giving away a number of Starcoin miners to be mined at the same time as the launch of the main network, so you can be the first to get your hands on Starcoin mainnet coins.
 
 
-*Starcoin is a new generation of layered smart contracts and distributed financial network, which aims to provide a secure platform for digital assets and decentralised financial operations, allowing blockchain to be used in more areas with lower barriers. It has the following features:*
+> **Starcoin** is a new generation of layered smart contracts and distributed financial network, which aims to provide a secure platform for digital assets and decentralised financial operations, allowing blockchain to be used in more areas with lower barriers. It has the following features:
 
-* Enhanced Satoshi Nakamoto consensus protocol to maximize throughput while ensuring security
-* A flexible decentralised on-chain governance system to ensure the chain's ability to continuously evolve
-* New generation of smart contract programming language Move, virtual machines and standard libraries for asset-oriented programming
-* Layered network model, where one and two layers work together to solve blockchain scalability challenges
+>* Enhanced Satoshi Nakamoto consensus protocol to maximize throughput while ensuring security
+>* A flexible decentralised on-chain governance system to ensure the chain's ability to continuously evolve
+>* New generation of smart contract programming language Move, virtual machines and standard libraries for asset-oriented programming
+>* Layered network model, where one and two layers work together to solve blockchain scalability challenges
 
 
 ## Event Duration
