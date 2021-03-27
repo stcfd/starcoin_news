@@ -94,11 +94,11 @@ Srtarcoin于数月前举办了第一期 Proxima 测试网挖矿活动，历时�
 
 ### 关于我们
 
-* [starcoin.org](https://weibo.cn/sinaurl?u=http%3A%2F%2Fstarcoin.org%2F)
-* [Github](https://weibo.cn/sinaurl?u=https%3A%2F%2Fgithub.com%2Fstarcoinorg%2Fstarcoin)
-* 微博/公众号：Starcoin区块链
-* Twitter: @StarcoinSTC
-* Medium: Starcoin
+* [starcoin.org](https://starcoin.org/)
+* [Github](https://github.com/starcoinorg/starcoin)
+* 微博/公众号：Starcoin区块链(https://weibo.com/u/7480684466)
+* Twitter: @StarcoinSTC(https://twitter.com/StarcoinSTC)
+* Medium: Starcoin(https://starcoin.medium.com/)
 * [Discord](https://discord.gg/UkfNMCpU)
 * 微信助手：starcoinorg
 

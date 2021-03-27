@@ -91,11 +91,11 @@ Starcoin is not responsible for maintenance, etc. * Starcoin is the final arbite
 
 ### About us
 
-* [starcoin.org](https://weibo.cn/sinaurl?u=http%3A%2F%2Fstarcoin.org%2F)
-* [Github](https://weibo.cn/sinaurl?u=https%3A%2F%2Fgithub.com%2Fstarcoinorg%2Fstarcoin)
-* Weibo/Public: Starcoin Blockchain
-* Twitter: @StarcoinSTC
-* Medium: Starcoin
+* [starcoin.org](https://starcoin.org/)
+* [Github](https://github.com/starcoinorg/starcoin)
+* Weibo/Wechat Account: Starcoin区块链(https://weibo.com/u/7480684466)
+* Twitter: @StarcoinSTC(https://twitter.com/StarcoinSTC)
+* Medium: Starcoin(https://starcoin.medium.com/)
 * [Discord](https://discord.gg/UkfNMCpU)
 * WeChat Assistant: starcoinorg
 
