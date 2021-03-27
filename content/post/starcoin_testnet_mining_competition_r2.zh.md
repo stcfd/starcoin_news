@@ -1,7 +1,7 @@
 +++
 title = "Starcoin 挖矿比赛第二期-Barnard 测试网暨主网上线预告"
 date = "2021-03-26"
-summary = "starcoin testnet mining competition round two is comming"
+summary = "Starcoin testnet mining competition round two is comming"
 archives = "2021"
 author = "starcoin-core"
 tags = [
@@ -12,7 +12,7 @@ tags = [
 ]
 +++
 
-Srtarcoin于数月前举办了第一期 Proxima 测试网挖矿活动，历时两周吸引了众多用户参与，其中不乏行业中深耕多年凭借其迅猛雷达探测出Starcoin未来价值属性的资深矿工，也有被此次活动中创新性的‘一键挖矿0门槛' 引来掘得矿圈第一桶金的矿圈新手。 
+Starcoin于数月前举办了第一期 Proxima 测试网挖矿活动，历时两周吸引了众多用户参与，其中不乏行业中深耕多年凭借其迅猛雷达探测出Starcoin未来价值属性的资深矿工，也有被此次活动中创新性的‘一键挖矿0门槛' 引来掘得矿圈第一桶金的矿圈新手。 
 
 如火如荼的挖矿活动让大家抢先体验了Starcoin测试网的挖矿机制，同时给技术团队带来宝贵的数据反馈，帮助我们持续不断的优化项目。再次感谢大家的参与帮助！
 
@@ -94,11 +94,11 @@ Srtarcoin于数月前举办了第一期 Proxima 测试网挖矿活动，历时�
 
 ### 关于我们
 
-* [starcoin.org](https://starcoin.org/)
+* [Starcoin.org](https://starcoin.org/)
 * [Github](https://github.com/starcoinorg/starcoin)
-* 微博/公众号：Starcoin区块链(https://weibo.com/u/7480684466)
-* Twitter: @StarcoinSTC(https://twitter.com/StarcoinSTC)
-* Medium: Starcoin(https://starcoin.medium.com/)
+* 微博/公众号：[Starcoin区块链](https://weibo.com/u/7480684466)
+* Twitter: [@StarcoinSTC](https://twitter.com/StarcoinSTC)
+* Medium: [Starcoin](https://starcoin.medium.com/)
 * [Discord](https://discord.gg/UkfNMCpU)
 * 微信助手：starcoinorg
 

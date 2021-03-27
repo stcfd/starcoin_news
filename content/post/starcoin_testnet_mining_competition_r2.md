@@ -1,7 +1,7 @@
 +++
 title = "Mining Competition Phase 2 - Barnard Test Network and Mainline Launch Preview"
 date = "2021-03-26"
-summary = "starcoin testnet mining competition round two is comming"
+summary = "Starcoin testnet mining competition round two is comming"
 archives = "2021"
 author = "starcoin-core"
 tags = [
@@ -12,7 +12,7 @@ tags = [
 ]
 +++
 
-Srtarcoin held the first phase of the Proxima test network mining event a few months ago, which lasted for a fortnight and attracted many users, including veteran miners who have been working in the industry for years and have detected the future value properties of Starcoin with their rapid radar, as well as newcomers to the mining community who were attracted by the innovative 'one-click mining with zero threshold'. 
+Starcoin held the first phase of the Proxima test network mining event a few months ago, which lasted for a fortnight and attracted many users, including veteran miners who have been working in the industry for years and have detected the future value properties of Starcoin with their rapid radar, as well as newcomers to the mining community who were attracted by the innovative 'one-click mining with zero threshold'. 
 
 The mining event allowed everyone to experience the Starcoin test network's mining mechanism first-hand, and gave the technical team valuable data feedback to help us continuously optimise the project. Thank you again for your participation and help!
 
@@ -91,11 +91,11 @@ Starcoin is not responsible for maintenance, etc. * Starcoin is the final arbite
 
 ### About us
 
-* [starcoin.org](https://starcoin.org/)
+* [Starcoin.org](https://starcoin.org/)
 * [Github](https://github.com/starcoinorg/starcoin)
-* Weibo/Wechat Account: Starcoin区块链(https://weibo.com/u/7480684466)
-* Twitter: @StarcoinSTC(https://twitter.com/StarcoinSTC)
-* Medium: Starcoin(https://starcoin.medium.com/)
+* Weibo/Wechat offcial Account: [Starcoin区块链](https://weibo.com/u/7480684466)
+* Twitter: [@StarcoinSTC](https://twitter.com/StarcoinSTC)
+* Medium: [Starcoin](https://starcoin.medium.com/)
 * [Discord](https://discord.gg/UkfNMCpU)
 * WeChat Assistant: starcoinorg
 
