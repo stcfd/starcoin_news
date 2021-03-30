@@ -96,6 +96,6 @@ Starcoin is not responsible for maintenance, etc. * Starcoin is the final arbite
 * Weibo/Wechat offcial Account: [Starcoin区块链](https://weibo.com/u/7480684466)
 * Twitter: [@StarcoinSTC](https://twitter.com/StarcoinSTC)
 * Medium: [Starcoin](https://starcoin.medium.com/)
-* [Discord](https://discord.gg/UkfNMCpU)
+* [Discord](https://discord.gg/DJkU8NAezd)
 * WeChat Assistant: starcoinorg
 

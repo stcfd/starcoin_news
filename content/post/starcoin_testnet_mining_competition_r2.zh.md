@@ -99,6 +99,6 @@ Starcoin于数月前举办了第一期 Proxima 测试网挖矿活动，历时两
 * 微博/公众号：[Starcoin区块链](https://weibo.com/u/7480684466)
 * Twitter: [@StarcoinSTC](https://twitter.com/StarcoinSTC)
 * Medium: [Starcoin](https://starcoin.medium.com/)
-* [Discord](https://discord.gg/UkfNMCpU)
+* [Discord](https://discord.gg/DJkU8NAezd)
 * 微信助手：starcoinorg
 
