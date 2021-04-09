@@ -1,4 +1,4 @@
-baseURL = "http://news.starcoin.org/"
+baseURL = "https://news.starcoin.org/"
 languageCode = "zh"
 title = "Starcoin News"
 DefaultContentLanguage = "en"
