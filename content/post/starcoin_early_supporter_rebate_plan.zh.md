@@ -18,7 +18,7 @@ Starcoin 灵活的去中心化链上治理体系，保证链的持续演进能�
 +台矿机将在主网上线前赠出。以感谢各位在项目初期及活动中的参与及建议，期待与大家一起见证未来Starcoin 主网上的一切可能。
 
 
-## Starcoin 测试网第二期活动参与者 *181台 Statcoin 矿机
+## Starcoin 测试网第二期活动参与者： 182台 Statcoin 矿机
 
 ### 认领条件
 
@@ -38,11 +38,11 @@ awk -vN=182 -vC="610" 'BEGIN{srand(32);while(n<N){i=int(rand()*C+1);if(!(i in a)
 2. 确认有本人地址后请至[表单](https://wj.qq.com/s2/8295631/0c52) 验证并填写收件信息。
 3. 认领时间：2021/4/28日 00:00前
 
-## GitHub 早期支持用户 *40台 Statcoin 矿机
+## GitHub 早期支持用户：40台 Statcoin 矿机
 
 ### 认领条件
 
-1. Starcoin 项目star用户 *15台: 2021年4月2日前 star 了 starcoinorg/starcoin 代码仓库的 GitHub 用户，且 GitHub follower >15 人，
+1. Starcoin 项目star用户：15台: 2021年4月2日前 star 了 starcoinorg/starcoin 代码仓库的 GitHub 用户，且 GitHub follower >15 人，
 可领取一台矿机，先到先得，送完为止
 
 2. Diem 项目 star 用户15台: 2021年4月2日前 star 了 diem/diem 代码仓库的 GitHub 用户，且 GitHub follower > 50 人，
