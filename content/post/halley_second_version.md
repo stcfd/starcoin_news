@@ -1,6 +1,6 @@
 +++
-title = "Starcoin BlockChain release the Second developer version"
-date = "2020-04-09"
+title = "Starcoin BlockChain release v0.2 "
+date = "2020-06-28"
 image = 'read.jpg'
 summary = " "
 archives="2020"
