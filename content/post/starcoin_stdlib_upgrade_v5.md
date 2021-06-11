@@ -24,7 +24,8 @@ Voting for the Starcoin Move stdlib v5 upgrade is open. This upgrade is the firs
 5. Proposer address: 0xb2aa52f94db4516c5beecef363af850a
 
 
-Coin holders are invited to vote on the chain. When voting, the STC of the current account will be stake to the contract until the end of the voting period, which is currently 7 days.  ** To encourage participation in on-chain governance, incentives for on-chain governance will be introduced in the future. Users who participate in voting this time will be compensated according to the incentive strategy. **
+Coin holders are invited to vote on the chain. When voting, the STC of the current account will be stake to the contract until the end of the voting period, which is currently 7 days.  
+**To encourage participation in on-chain governance, incentives for on-chain governance will be introduced in the future. Users who participate in voting this time will be compensated according to the incentive strategy.**
 
 For voting methods, please refer to: [Starcoin Move stdlib upgrade Guide](https://github.com/starcoinorg/starcoin/discussions/2578)
 
