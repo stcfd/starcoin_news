@@ -1,5 +1,5 @@
 +++
-title = "Starcoin Move 合约标准库 v5 版升级投票通过"
+title = "Starcoin Move 合约标准库 v5 版升级投票通过，将于 24 小时后后执行"
 date = "2021-06-15"
 summary = " "
 author = "jolestar"
