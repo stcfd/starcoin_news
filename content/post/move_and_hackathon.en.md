@@ -9,7 +9,6 @@ tags = [
 archives="2021"
 +++
 
-
 Starcoin officially launched its main network on May 18, 2021. With the rapid development of the ecosystem, Starcoin will fully open its Move contract publishing permission for all users. As the first permissionless Move blockchain, while inheriting the security of Satoshi Nakamoto's consensus, Starcoin enhances the security of Dapps, allowing all developers to write safer smart contracts quickly.
 
 To facilitate developers to write Move contracts and further lower the development and usage barriers, Starcoin has recently released some important updates.
@@ -24,7 +23,7 @@ With the growing demand for Move deployment in the Starcoin ecosystem, Starcoin 
 
 At the same time, Starcoin announced the launch of a series of new plans and schedules.
 
-I. The first Starcoin Move Hackathon
+## I. The first Starcoin Move Hackathon
 
 The contest will start on June 23rd, 2021, and last until July 31st, 2021(GMT+8). Participants should deploy their contracts before the end time. The hackathon committee will decide the winners. Projects in the following area are encouraged (including, but not limited to)
 
@@ -39,7 +38,7 @@ The contest will start on June 23rd, 2021, and last until July 31st, 2021(GMT+8)
 
  Further information for the hackathon will be published soon.
 
- II. A rich Move developer ecosystem support
+## II. A rich Move developer ecosystem support
 
  To help develop and deploy contracts, Starcoin has upgraded the developer ecosystem as follows.
 
@@ -58,7 +57,7 @@ The contest will start on June 23rd, 2021, and last until July 31st, 2021(GMT+8)
 
  In addition, Starcoin will propose an Oracle protocol, and it is the cornerstone of blockchain applications and one of the core infrastructures in the Web 3.0 and DeFi era. The protocol will complete the ecological closure and may even play a decisive role in the development pattern of the industry.
 
- III. The first DApp of Starcoin - Vote System
+## III. The first DApp of Starcoin - Vote System
 
  On July 1, 2021, Starcoin will launch its first Dapp, the voting Dapp; it integrates with Starmask -- the Starcoin chrome extension wallet. Users can vote easily on the web page, and very convenient to operate.
 
