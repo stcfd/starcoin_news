@@ -1,7 +1,7 @@
 +++
 title = "首届Starcoin Move线上黑客松参赛说明"
 date = "2021-07-04"
-summary = " "
+summary = "Starcoin是一个按分层方式架构并为分布式金融而设计的区块链项目，使用专门为分布式金融网络及数字资产设计的智能合约语言Move，也是第一个支持无许可Move合约的公链。为了充分发挥Move优势，Starcoin最近激活了链上发布Move合约功能，并发起首届Starcoin Move线上黑客松大赛。 "
 author = "Starcoin"
 tags = [
     "Starcoin"
@@ -26,7 +26,7 @@ Move 语言是一门为数字资产量身打造的智能合约语言，包括如
 
 ## 二、正式发布Move生态的首款DApp——投票系统
 
-2021年6月24日正式发布Starcoin生态的首款DApp——投票系统，它通过于去中心化浏览器钱包StarMask结合，用户可以参与Starcoin链上治理。用户可以通过投票[首页](https://poll.starcoin.org/polls/1)查看历史投票信息。
+2021年6月24日正式发布Starcoin生态的首款DApp——投票系统，它通过与去中心化浏览器钱包StarMask结合，用户可以参与Starcoin链上治理。用户可以通过投票[首页](https://poll.starcoin.org/polls/1)查看历史投票信息。
 
 ## 三、首届Starcoin Move线上黑客松大赛详情
 
